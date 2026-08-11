@@ -1,5 +1,0 @@
-Flask
-groq
-python-dotenv
-PyPDF2
-gunicorn
